@@ -1,4 +1,4 @@
-# whatdoyoumean README
+# Better Smoother VSCode Scroll by Keyboard
 
 This is the README for your extension "whatdoyoumean". After writing up a brief description, we recommend including the following sections.
 
